@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use or reference this specification, please cite it as below."
+title: "SpatialCart Protocol — An Open Specification for Turning a Phone 3D Gaussian-Splatting Room Scan into a Measured Spatial Database that AI Agents Read via MCP to Design, Fit-Check, and Order Real Furniture Across Stores"
+abstract: "A proposed open protocol and data-layer specification that bridges phone-captured 3D Gaussian-splatting room scans to agentic commerce: an AI agent reads a scanned room as a measured spatial database over MCP, verifies that each real product fits the room and the delivery doorway, and places fit-verified orders across stores via agentic-commerce rails (ACP/UCP). Concept and specification stage."
+type: software
+authors:
+  - family-names: Shramko
+    given-names: Andrii
+    orcid: ""
+repository-code: "https://github.com/AndriiShramko"
+url: "https://github.com/AndriiShramko"
+license: CC-BY-NC-4.0
+version: "0.1.0"
+date-released: "2026-06-27"
+keywords:
+  - 3D Gaussian splatting
+  - agentic commerce
+  - Model Context Protocol
+  - spatial commerce
+  - room scanning
+  - fit verification
+  - digital twin
+  - AI agents

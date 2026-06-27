@@ -1,0 +1,13 @@
+SpatialCart Protocol
+Conceived and authored by Andrii Shramko.
+First published on GitHub: 2026 — https://github.com/AndriiShramko
+
+Specification and documents: licensed under CC BY-NC 4.0 (attribution to
+Andrii Shramko required; commercial use requires a separate license — see
+COMMERCIAL-LICENSE.md).
+
+Any future reference code: to be licensed separately under Apache License 2.0.
+
+When reusing or citing this work, attribute it as:
+  Andrii Shramko, "SpatialCart Protocol — An Open Specification for Fit-Verified,
+  Scan-to-Order Spatial Commerce", 2026. https://github.com/AndriiShramko
