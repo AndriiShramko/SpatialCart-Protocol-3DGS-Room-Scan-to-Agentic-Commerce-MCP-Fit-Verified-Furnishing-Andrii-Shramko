@@ -1,0 +1,1 @@
+# SpatialCart-Protocol-3DGS-Room-Scan-to-Agentic-Commerce-MCP-Fit-Verified-Furnishing-Andrii-Shramko
