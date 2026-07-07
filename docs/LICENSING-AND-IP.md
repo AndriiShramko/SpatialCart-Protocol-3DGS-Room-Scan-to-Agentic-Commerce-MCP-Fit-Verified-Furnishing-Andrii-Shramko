@@ -24,7 +24,7 @@ Publishing the integrated design here, with a public commit history, does two th
 - It **timestamps Andrii Shramko's authorship** of the integrated fit-verification loop on a specific, verifiable date.
 - It establishes **prior art** — a public, dated disclosure that helps prevent a third party from later patenting the same integrated loop *against* Andrii.
 
-> **Prior-art caveat (honest):** The "nobody has published the full closed loop" assessment is based on **web search, not a patent search** (USPTO / Espacenet / Google Patents). Players such as Kujiale/Coohom (authors of the InteriorGS dataset) and RakuAI are the closest adjacent efforts and could be operating in stealth. A proper patent and freedom-to-operate search is strongly recommended **before** asserting novelty as a legal claim publicly.
+> **Prior-art caveat (honest, updated 2026-07):** A spot Google Patents check has now surfaced two **granted** patents on the *in-room fit* step — **Snap US 12,327,277 B2** ("Home based augmented reality shopping," granted Jun 2025) and **Amazon US 12,141,929 B1** ("Augmented reality furniture layout recommendation," granted Nov 2024). Neither claims **delivery-path clearance, cross-store agentic ordering, or a vendor-neutral fit-schema** — which is SpatialCart's narrow delta — but their existence means the bare "does it fit the room" idea is **not** patentable open space, and it changes the filing calculus in §4. This remains a spot check, **not** a full USPTO / Espacenet freedom-to-operate search; commission one before asserting novelty as a legal claim or filing. Kujiale/Coohom (InteriorGS), RakuAI, and Roomform.ai are the closest active products and could be operating in stealth.
 
 ---
 
@@ -89,6 +89,7 @@ If exclusivity over the **fit-verification method and system** matters, the path
   Do **not** publish first and file later if EU patent rights matter to you.
 
 - If Andrii decides **not** to patent, the **public spec is itself a strong defensive publication** — it does not grant him exclusivity, but it does prevent others from patenting the same integrated loop against him.
+- **Draft any provisional around the incumbents.** Because Snap (**US 12,327,277 B2**) and Amazon (**US 12,141,929 B1**) already hold granted claims on *in-room fit* (see the prior-art caveat in §1), a filing should center on the elements they do **not** claim — **delivery-path clearance, the cross-store agentic-ordering loop, and the vendor-neutral fit-schema** — and IP counsel should run a freedom-to-operate check against both patents first.
 
 > **Not a hypothetical detail:** because this repository may already be public, anyone evaluating the patent route should treat the publication date as the disclosure date and consult patent counsel about which windows (e.g. the US grace period) remain open. The author has not represented that any patent has been filed.
 
