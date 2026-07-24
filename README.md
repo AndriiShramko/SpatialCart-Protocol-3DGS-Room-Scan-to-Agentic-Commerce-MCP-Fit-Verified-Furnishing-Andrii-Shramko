@@ -56,6 +56,8 @@ SpatialCart describes a clean, vendor-neutral loop. It is designed to **not** re
 
 SpatialCart aims to standardize the schema at every hop: **room geometry + segmented architectural elements + per-SKU dimensional fit envelope + delivery-path constraints.** It is designed to sit explicitly **between MCP (data) and ACP/UCP (orchestration/checkout)** — complementary, never competing.
 
+**Closing the loop (draft extension):** the same pre-scan can also serve as a *visual localization map*, so before confirming, the user's phone relocalizes in the scan's coordinate frame — **no GPS** — and shows the chosen product in AR at exactly the pose the agent planned. *Plan in the scan, see it in the room.* See **[docs/AR-PREVIEW-LOOP.md](docs/AR-PREVIEW-LOOP.md)**.
+
 ---
 
 ## Who this is for — and why contact Andrii
