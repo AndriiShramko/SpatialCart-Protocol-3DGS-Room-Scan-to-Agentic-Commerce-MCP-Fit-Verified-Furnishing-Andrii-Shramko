@@ -100,6 +100,12 @@ Be clear about what is unproven:
 
 ---
 
+## Related project — the execution leg: Agentic Shopping Skills
+
+SpatialCart gives an AI agent *eyes and a tape measure* — a measured room it can query before buying. The same author's sibling project, **[Agentic Shopping Skills](https://github.com/AndriiShramko/Agentic-Shopping-Skills-AI-Agents-Buy-and-Pay-Online-Autonomously-Allegro-OLX-Andrii-Shramko)**, gives it *hands and a wallet*: an open skill layer so user-owned agents (Claude Code, Codex) can search, buy, and **pay autonomously** on real online stores — per-site skills, mandate-based delegated payments with hard limits, and a community skill registry, starting with Allegro.pl and OLX.pl. Together they close the full loop: *"furnish this room, budget X"* → measured, fit-checked, bought, delivered.
+
+---
+
 ## Get involved — partner, finance, or license
 
 Andrii is **passionate about building this** and is looking for one scanner vendor and one retailer to co-pilot the standard, plus a financing partner for the MVP. If you make 3DGS/scanner software, run a furniture retailer or marketplace, or want to back the spatial-commerce layer, here's how to reach the author.
