@@ -100,6 +100,12 @@ Be clear about what is unproven:
 
 ---
 
+## Ecosystem: execution leg — Agentic Shopping Autopilot
+
+SpatialCart gives an AI agent *eyes and a tape measure* — a measured room it can query before buying. The same author's sibling project, **[Agentic Shopping Autopilot](https://github.com/AndriiShramko/agentic-shopping-autopilot)**, gives it *hands and a wallet*: the open-source layer where the user's own AI agent (Claude Code, Codex) actually goes to the store and **buys** what SpatialCart verified to fit — autonomous search, checkout and payment under a pre-signed purchase mandate with hard limits, per-site skills and a community skill registry, starting with Allegro.pl and OLX.pl. Together they close the full loop: *"furnish this room, budget X"* → measured, fit-checked, bought, delivered.
+
+---
+
 ## Get involved — partner, finance, or license
 
 Andrii is **passionate about building this** and is looking for one scanner vendor and one retailer to co-pilot the standard, plus a financing partner for the MVP. If you make 3DGS/scanner software, run a furniture retailer or marketplace, or want to back the spatial-commerce layer, here's how to reach the author.
