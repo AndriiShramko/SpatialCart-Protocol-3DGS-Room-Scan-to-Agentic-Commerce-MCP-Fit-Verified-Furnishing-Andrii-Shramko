@@ -100,9 +100,9 @@ Be clear about what is unproven:
 
 ---
 
-## Related project — the execution leg: Agentic Shopping Skills
+## Ecosystem: execution leg — Agentic Shopping Autopilot
 
-SpatialCart gives an AI agent *eyes and a tape measure* — a measured room it can query before buying. The same author's sibling project, **[Agentic Shopping Skills](https://github.com/AndriiShramko/Agentic-Shopping-Skills-AI-Agents-Buy-and-Pay-Online-Autonomously-Allegro-OLX-Andrii-Shramko)**, gives it *hands and a wallet*: an open skill layer so user-owned agents (Claude Code, Codex) can search, buy, and **pay autonomously** on real online stores — per-site skills, mandate-based delegated payments with hard limits, and a community skill registry, starting with Allegro.pl and OLX.pl. Together they close the full loop: *"furnish this room, budget X"* → measured, fit-checked, bought, delivered.
+SpatialCart gives an AI agent *eyes and a tape measure* — a measured room it can query before buying. The same author's sibling project, **[Agentic Shopping Autopilot](https://github.com/AndriiShramko/agentic-shopping-autopilot)**, gives it *hands and a wallet*: the open-source layer where the user's own AI agent (Claude Code, Codex) actually goes to the store and **buys** what SpatialCart verified to fit — autonomous search, checkout and payment under a pre-signed purchase mandate with hard limits, per-site skills and a community skill registry, starting with Allegro.pl and OLX.pl. Together they close the full loop: *"furnish this room, budget X"* → measured, fit-checked, bought, delivered.
 
 ---
 
